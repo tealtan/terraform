@@ -1,0 +1,91 @@
+Title: Drucker Systems for Argument and Annotation
+
+----
+
+Text:
+
+*This is a set of thoughts-in-progress, a way of mulling over and working on a problem.  May be messy.*
+
+Some chats on Twitter over the past few months:
+
++ (link: http://storify.com/tealtan/lifespan-of-content text: one),
++ (link: http://storify.com/tealtan/archive-for-future-history text: two),
++ (link: http://storify.com/tealtan/annotation-communication-tool-for-conferences text: three),
++ (link: http://storify.com/tealtan/reading-systems text: four),
++ (link: http://storify.com/tealtan/pinboard-technique text: five))
+
+coincided with a (link: http://hyperstudio.mit.edu/events/visualizing-interpretation-workshop-with-johanna-drucker-april-23-28-2012/ text: week-long MIT workshop) led by Johanna Drucker, who coincidentally was one of Max's college professors. The topics&mdash;legible argument, visual interfaces, and large scale corpora—sounded a lot like what we had been talking about. So Max, Peter, Erin, and I took the bus up to Cambridge.
+
+## The set of readings we were given, as preparation:
+
+### Humanities Approaches to Interface Theory
+
++ (link: http://readmill.com/tealtan/reads/humanities-approaches-to-interface-theory text: Allen's notes)
++ (link: http://readmill.com/maxfenton/reads/humanities-approaches-to-interface-theory text: Max's notes)
++ (link: http://readmill.com/meetar/reads/humanities-approaches-to-interface-theory text: Peter's notes)
++ (link: http://readmill.com/kissane/reads/humanities-approaches-to-interface-theory text: Erin's notes)
+
+### Temporal Modelling
++ (link: http://readmill.com/tealtan/reads/temporal-modelling text: Allen's notes)
++ (link: http://readmill.com/maxfenton/reads/temporal-modelling text: Max's notes)
+
+### Frame Jumps and Mixed Modalities
++ (link: http://readmill.com/tealtan/reads/frame-jumps-and-mixed-modalities text: Allen's notes)
++ (link: http://readmill.com/kissane/reads/frame-jumps-and-mixed-modalities text: Erin's notes)
++ (link: http://readmill.com/maxfenton/reads/frame-jumps-and-mixed-modalities text: Max's notes)
+
+### Theoretical Approaches to Interface
++ (link: http://readmill.com/tealtan/reads/performative-materiality-and-theoretical-approaches-to-interface-1 text: Allen's notes)
++ (link: http://readmill.com/maxfenton/reads/performative-materiality-and-theoretical-approaches-to-interface-1 text: Max's notes)
++ (link: http://readmill.com/meetar/reads/performative-materiality-and-theoretical-approaches-to-interface-1 text: Peter's notes)
++ (link: http://readmill.com/kissane/reads/performative-materiality-and-theoretical-approaches-to-interface-1 text: Erin's notes)
+
+### Humanities Approaches to Graphical Display
++ (link: http://readmill.com/tealtan/reads/humanities-approaches-to-graphical-display text: Allen's notes)
++ (link: http://readmill.com/kissane/reads/humanities-approaches-to-graphical-display text: Erin's notes)
+
+## The problem
+
+Johanna described the Sunset Boulevard project, originally a university class taught by a professor in California. Students  would be given a bus pass, travel along the modern Sunset Boulevard, and write a paper at the end of the class. Johanna presented a challenge: could this be turned into a digital project repository with ongoing research, archived physical and digital artifacts, and appealed to more than one school's students?
+
+It defies simple concepts of time (many things existed in simultaneous or fuzzy areas of time), of geography (older maps had different dimensions that we didn't want to corrected) and user interface (could you take notes, visualize and manipulate data, collaborate with other researchers, construct arguments, and publish research all in one place?)
+
+(Max took (link: http://5880.me/20120429/jd-notes/#more-19 text: exhaustive notes), by the way, so I'm just going to elaborate on a few things.)
+
+## Conceptualization of time
+
+Many of our interfaces today are built around a timeline: everything has a timestamp and can be sorted chronologically. Johanna wanted to expand on this simple conceptualization of time:
+
++ relative time (something happened 5 minutes ago depending on a point-of-view)
++ fuzzy time (I got this bike maybe 4 years ago)
++ cause and effect (I went to the grocery store *after* I saw the empty milk carton)
++ parallel time (While she took the train, I finished cooking dinner)
+
+(image: http://3.bp.blogspot.com/-c0vBrf-5-JM/TrgR4vE6SrI/AAAAAAAAAME/9-JWDvonw_I/s1600/frysk-task-state-machine.jpg alt: A chaotic diagram of a state machine used by animators to rig and write character animations.)
+
+Johanna had an old project where she tried to model time as a set of connected nodes: each node an event, an each connection a particular relationship in time. Reminded me a lot of (link: http://strongmanimator.blogspot.com/2011/11/who-designs-animation.html text: state machines).
+
+***
+
+## Interface sketches:
+
+(image: sketch-yanni.jpg)
+Yanni's sketch of a geographical map, exploded in time. It could accommodate disjointed and fuzzy notions of time really easily.
+
+(image: sketch-max.jpg)
+Max's sketch of a node and connectors interface, with additional instruments (search, data-manipulation, writing) on the bottom.
+
+(image: sketch-peter.jpg)
+Peter's conceptualization of a suite of tools, with distinct purposes, -OR- one tool with separate areas for separate types of activity (a la Lightroom).
+
+(image: sketch-kissane.jpg)
+Erin's outline for the user-facing site, what types content would be most important, and how to present information.
+
+(image: sketch-allen.jpg)
+My sketches around a single idea—the snapshot—that contains a screengrab and the current system/interface state. It would be shareable and embeddable within documents, and are the nodes connected by lines of argument.
+
+***
+
+(image: sketch-drucker.jpg)
+
+(image: future.jpg)
