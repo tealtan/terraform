@@ -1,7 +1,21 @@
-Title: Kirby Starterkit
+Title:
+
+Allen Tan is...
+
 ----
-Author: Bastian Allgeier GmbH
+
+Author:
+
+Allen Tan
+
 ----
-Description: This is Kirby's Starterkit.
+
+Description:
+
+Designer for NYT by day. Assistant editor for @Contents (and previously @codex) by night. Superbrain robolibrary friend.
+
 ----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Kirby)
+
+Copyright:
+
+© 2009-(date: Year)
