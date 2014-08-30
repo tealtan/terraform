@@ -1,0 +1,13 @@
+Title: Audition Text
+
+----
+
+Text:
+
+<p id="output"></p>
+
+<label>You can test by typing here:</label>
+<textarea id="input">Very quick test of how one might {audition/toggle between/show you're working through} different variations in a {sentence/line of thought/argument}. I think Charlie's version of showing all the different options is smart, though I think a writer would want to make different choices and see {and try reading it/if the particular set of variations make sense}.</textarea>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="audition.js"></script>​
