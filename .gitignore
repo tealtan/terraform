@@ -1,0 +1,4 @@
+site/accounts/*
+
+# Ignore other unneeded files.
+.DS_Store
