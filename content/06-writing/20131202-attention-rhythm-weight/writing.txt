@@ -1,0 +1,20 @@
+Title: Attention, Rhythm & Weight
+
+----
+
+Text:
+
+![Image of cartoon character straining to pick up a rock](/img/posts/animators-survival-kit/rock.png)
+
+---
+
+<div id="excerpt">
+  <img id="app-icon" src="/img/posts/animators-survival-kit/app-icon.png">
+  <p><em>Excerpt from <a href="http://www.theanimatorssurvivalkit.com">The Animator’s Survival Kit by Richard Williams.</a> Published by Faber &amp; Faber, 2002.</em></p>
+</div>
+
+---
+
+[A piece I wrote for STET.](http://stet.editorially.com/articles/attention-rhythm-and-weight/)
+
+Thanks to [Rebecca Rubenstein](https://twitter.com/rrrubenstein) for editing, [Sally Kerrigan](https://twitter.com/draftwerk) for copyediting, [Mandy Brown](https://twitter.com/aworkinglibrary) for encouraging me to write it, and Natalie Andrewson for the [amazing illustration](http://www.natalie-andrewson.com/).
