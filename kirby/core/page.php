@@ -871,10 +871,16 @@ abstract class PageAbstract {
     // get the template name
     $templateName = $this->intendedTemplate();
 
+    // check if user is requesting a specific file format, like txt or json
+    $pathExtension = pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION);
+    if($pathExtension) {
+      $templateName = pathinfo($_SERVER['REQUEST_URI'], PATHINFO_BASENAME);
+    }
+
     // check if the file exists and return the appropriate template name
     return $this->cache['template'] =
       file_exists($this->site->options['root.templates'] . DS . $templateName . '.php') ?
-        $templateName : 'default';
+        $templateName : 'default' . (($pathExtension) ? ('.' . $pathExtension) : '');
 
   }
 
