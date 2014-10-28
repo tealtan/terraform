@@ -1,15 +1,35 @@
-Title: Home
-
-----
-
 Text:
 
-Yay! If you are seeing this, the installation of Kirby worked. :)
-Now just give the links in the menu a try to see if URL redirection works as well.
+# Lost in the muckery.
 
-Go to the (link: panel text: panel) to get started with Kirby's admin interface.
+Allen Tan is a designer and editor. I currently work at *The New York Times*, (link: /designing text: redesigning and rethinking the online experience.)
 
-Check out the (link: http://getkirby.com/docs text: docs) if you run into any problems or send me an email: (email: support@getkirby.com)!
-Follow (twitter: @getkirby) on Twitter for updates.
+<!-- (Go into more detail on the design page)
 
-**Have fun with Kirby!**
+  Article page: making articles more dynamic
+  Portal:       expanding the scope and speed of homepage coverage
+  NYT Now:      building a mobile experience from the ground up
+  Typography:   evolving type system to work better on screens.
+
+-->
+
+Previously, I worked at (link: http://crushlovely.com text: Crush + Lovely) and (link: http://www.momentdesign.com text: Moment) on digital products.
+
+## Recommended writing:
+
+I’ve written about reading in public, the need for flexible design systems that can adjust to content, the concept of guilty pleasures, considerations for form-making, and ways to resurface the past. See more.
+
+<!--
+- Reading in Public *Readmill*
+- Digital Tailoring *Contents*
+- Guilty Particulars
+- Gardens, Not Graves *A List Apart*
+- Attention, Rhythm & Weight *Stet*
+-->
+
+## Side Projects
+- (link: /making/gloss text: *Gloss*) – A highlighter for the Internet.
+- (link: /making/audition-text text: *Audition Text*) – Show and switch between different phrases in your writing.
+- (link: /making/terraform text: *Terraform*) – Balancing universal browser support with new experiments.
+- (link: /making/darkmatter text: *Dark Matter*) – Collected thoughts on strategic design.
+- (link: /making/birmingham text: *Birmingham*) – A constellation of tools for notes.
